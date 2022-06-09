@@ -1,0 +1,10 @@
+
+_
+java:S1481".Remove this unused "newCourse" local variable.(Æ³ıÿÿÿÿH†RMINORZ
+CODE_SMELL
+y
+java:S1128"FRemove this unused import 'com.edusystem.controller.CourseController'.(ëÖË8¨÷ÒÕ‘0HˆRMINORZ
+CODE_SMELL
+n
+java:S1854"=Remove this useless assignment to local variable "newCourse".(Æ³ıÿÿÿÿHŠRMAJORZ
+CODE_SMELL
